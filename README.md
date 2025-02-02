@@ -1,0 +1,1 @@
+Here you can see 2 types of files. The python files were in Pycharm and locally use libraries to scan your face using a webcam. The Unity file required this camera in order to work correctly as key feature are tied to the emotion you have.
